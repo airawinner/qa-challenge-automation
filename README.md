@@ -1,4 +1,32 @@
-# Projeto de Automação de Testes - E-commerce
+# Projeto de Automação de Testes - Cypress e Node.js
+
+Este repositório contém os cenários de testes automatizados para a página de login e filtros do site **Automation Practice**. O objetivo do projeto é garantir a funcionalidade da aplicação, validando a página de login e os filtros de produtos, utilizando o **Cypress** como framework de testes e **Node.js** como ambiente de execução.
+
+A escolha dessas ferramentas foi feita devido à sua eficiência e simplicidade para automação de testes em aplicações web.
+
+## Dependências do Projeto
+
+Este projeto utiliza as seguintes dependências para executar os testes:
+
+- **[Cypress](https://www.cypress.io/)** - Framework de automação de testes end-to-end.
+- **[Node.js](https://nodejs.org/en/)** - Ambiente de execução de JavaScript.
+- **[NPM](https://www.npmjs.com/)** - Gerenciador de pacotes.
+
+## Como Rodar o Projeto
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/airawinner/qa-challenge-automation
+   cd qa-challenge-automation
+
+2. **Abra o Cypress :**
+    ````npx cypress open  
+
+
+Na tela inicial do Cypress escolha "E2E Testing", um navegador de preferencia e inicie os testes.
+# Projeto de Automação de Testes
+
 
 Este repositório contém os cenários de testes automatizados para a página de login e filtros do site **Automation Practice**. Os testes foram desenvolvidos para validar a funcionalidade e garantir a qualidade da aplicação.
 
@@ -48,18 +76,7 @@ Este repositório contém os cenários de testes automatizados para a página de
 - O título da página "Your personal information" deve ser visível.
 - O usuário deve ser redirecionado para a página de confirmação de conta após completar o formulário de criação.
 
-## Dependências do Projeto
 
-Este projeto utiliza as seguintes dependências para executar os testes:
 
-- [Cypress](https://www.cypress.io/) - Framework de automação de testes end-to-end.
-- [Node.js](https://nodejs.org/en/) - Ambiente de execução de JavaScript.
-- [NPM](https://www.npmjs.com/) - Gerenciador de pacotes.
 
-### Como Rodar o Projeto
 
-1. **Clone o repositório:**
-
-   ```bash
-   git clone https://github.com/airawinner/qa-challenge-automation
-   cd qa-challenge-automation
