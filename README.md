@@ -61,5 +61,5 @@ Este projeto utiliza as seguintes dependências para executar os testes:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seuusuario/automation-practice-tests.git
-   cd automation-practice-tests
+   git clone https://github.com/airawinner/qa-challenge-automation
+   cd qa-challenge-automation
