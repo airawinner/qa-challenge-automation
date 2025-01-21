@@ -52,9 +52,9 @@ Este repositório contém os cenários de testes automatizados para a página de
 **Objetivo:** Validar se todos os filtros (como tamanho, estilo, composição, etc.) são aplicados corretamente e se os produtos exibidos atendem aos critérios dos filtros.
 
 **Passos:**
-- Dado que o usuário está na página da categoria "Women".
+- Dado que o usuário está na página da categoria "Dresses".
 - Quando o usuário aplica filtros de tamanho, estilo, composição, entre outros.
-- Então os filtros aplicados devem ser refletidos na seção de filtros ativos, e a lista de produtos deve ser filtrada corretamente.
+- Então, a lista de produtos deve ser filtrada corretamente.
 
 **Resultado Esperado:**
 - A lista de produtos deve refletir as opções de filtro aplicadas, como tamanho, estilo, e disponibilidade.
