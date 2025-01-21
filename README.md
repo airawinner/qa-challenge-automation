@@ -21,7 +21,7 @@ Este projeto utiliza as seguintes dependências para executar os testes:
    cd qa-challenge-automation
 
 2. **Abra o Cypress :**
-    ````npx cypress open  
+    ```npx cypress open  
 
 
 Na tela inicial do Cypress escolha "E2E Testing", um navegador de preferencia e inicie os testes.
